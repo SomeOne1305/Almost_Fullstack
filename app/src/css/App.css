@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+}
+div, nav{
+  width: 100%;
+}
+nav{
+  padding: 10px;
+  background-color: forestgreen;
+}
+
+.subnav{
+  padding: 20px;  
+  background-color: blueviolet;
+}
+.mainNav{
+  padding: 25px;
+  background-color: aquamarine;
+}
+
+.slider{
+  height: 400px;
+  background-color: cadetblue;
+}
+.media{
+  height: 359px;
+  background-color: yellowgreen;
+}
+.poll{
+  height: 230px;
+  padding: 20px;
+  background-color: violet;
+}
+
+.weather{
+  padding: 20px;
+  background-color: tomato;
+}
+
+footer{
+  width: 100%;
+  padding: 20px;
+  height: 200px;
+  background-color: crimson;
+}
